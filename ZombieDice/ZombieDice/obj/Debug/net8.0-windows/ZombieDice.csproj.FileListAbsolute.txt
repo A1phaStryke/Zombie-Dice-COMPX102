@@ -1,0 +1,16 @@
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\bin\Debug\net8.0-windows\ZombieDice.exe
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\bin\Debug\net8.0-windows\ZombieDice.deps.json
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\bin\Debug\net8.0-windows\ZombieDice.runtimeconfig.json
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\bin\Debug\net8.0-windows\ZombieDice.dll
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\bin\Debug\net8.0-windows\ZombieDice.pdb
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.Form1.resources
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.AssemblyInfo.cs
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.dll
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\refint\ZombieDice.dll
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.pdb
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ZombieDice.genruntimeconfig.cache
+C:\Users\aidan\source\repos\ZombieDice\ZombieDice\obj\Debug\net8.0-windows\ref\ZombieDice.dll
